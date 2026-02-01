@@ -163,9 +163,7 @@ After database initialization, test accounts are available:
 - Role-based authorization
 
 ## Team Members
-- Student ID: 123456 - John Doe
-- Student ID: 123457 - Jane Smith
-
+- Student ID: 12300492 - Roshan Lama
 ## License
 
 This project is licensed under the MIT License - see LICENSE file for details.
